@@ -1,0 +1,59 @@
+/* CSS OF BLOGS PAGE BLOGS 2 */
+* {
+    font-family: cursive;
+}
+
+header {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.back-btn {
+    position: absolute;
+    top: 26px;
+    right: 16px;
+    font-size: 18px;
+    background: orangered;
+    /*  ALIGNING DARKMODE AND BACK BUTTONS SIDE BY SIDE  */
+    right: 4%;
+
+  }
+
+  #dmode2 {
+    position: absolute;
+    display: inline;
+    top: 26px;
+    right: 16px;
+    font-size: 18px;
+    background: black;
+    cursor: pointer;
+  }
+
+  .container {
+    border: 3px solid black;
+    border-radius: 15px;
+    font-size: 10px;
+
+  }
+  
+  .container h3 {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  
+footer {
+    background-color: grey;
+}
+
